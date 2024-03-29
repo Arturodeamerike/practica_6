@@ -5,7 +5,7 @@
 me enseña el idioma del dia a dia en el rubro
 y los equipos
 
-haciendo camios
+haciendo cambios
 a casi nos vamos de vaciones
 
 versionado 0.1.0
